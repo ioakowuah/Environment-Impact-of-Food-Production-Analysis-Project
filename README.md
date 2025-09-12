@@ -38,3 +38,17 @@ The aim is to highlight sustainable food choices and provide actionable insights
 * Animal-based foods dominate eutrophication – Beef, fish, and cheese are top contributors to water pollution.
 
 * Farm stage is the largest emitter – Followed by land-use change and animal feed production.
+
+## Recommendations
+
+* Encourage clients and stakeholders to reduce beef and dairy consumption, as these are the highest contributors to carbon emissions and eutrophication.
+
+* Work with farmers to optimize farm emissions, since the farm stage contributes most to emissions.
+  
+* Support companies in adopting sustainable packaging and transport methods to cut down secondary emissions.
+
+* Run awareness campaigns to show the environmental footprint of different food types, helping consumers make informed choices.
+
+* Target interventions on high-emission and high-land-use clusters (e.g., beef, lamb, dairy) for maximum environmental benefit.
+
+
