@@ -52,3 +52,10 @@ The aim is to highlight sustainable food choices and provide actionable insights
 * Target interventions on high-emission and high-land-use clusters (e.g., beef, lamb, dairy) for maximum environmental benefit.
 
 
+## 🛠️ Tech Stack
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+* Jupyter Notebook for analysis
+
+* PowerPoint for reporting
