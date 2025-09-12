@@ -7,11 +7,11 @@ This project analyzes the environmental impact of different food products, focus
 
 * Carbon emissions
 
-Land use
+* Land use
 
-Water use
+* Water use
 
-Eutrophication (water pollution)
+* Eutrophication (water pollution)
 
 The aim is to highlight sustainable food choices and provide actionable insights that can guide consumers, policymakers, and organizations in reducing environmental footprints.
 
