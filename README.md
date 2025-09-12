@@ -27,3 +27,14 @@ The aim is to highlight sustainable food choices and provide actionable insights
 8. What is the environmental impact by Category (Plant Based and Animal Based)
 9. What are the Environmental factors across Category?
 
+## 📊 Key Insights
+
+* Beef is the most carbon-intensive food – Beef (beef herd) has nearly 3× the emissions of lamb & mutton.
+
+* Plant-based foods are more sustainable – Nuts, potatoes, onions, root vegetables, and citrus emit <1% of beef’s emissions.
+
+* Dairy & processed foods also rank high – Cheese and dark chocolate have disproportionately high impacts.
+
+* Animal-based foods dominate eutrophication – Beef, fish, and cheese are top contributors to water pollution.
+
+* Farm stage is the largest emitter – Followed by land-use change and animal feed production.
