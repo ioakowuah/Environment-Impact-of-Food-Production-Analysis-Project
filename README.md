@@ -39,6 +39,8 @@ The aim is to highlight sustainable food choices and provide actionable insights
 
 * Farm stage is the largest emitter – Followed by land-use change and animal feed production.
 
+![REcommendation-System](https://github.com/ioakowuah/Recommendation-System-Analysis-and-Modeling/blob/main/recommendation%20system%20.png)
+
 ## Recommendations
 
 * Encourage clients and stakeholders to reduce beef and dairy consumption, as these are the highest contributors to carbon emissions and eutrophication.
