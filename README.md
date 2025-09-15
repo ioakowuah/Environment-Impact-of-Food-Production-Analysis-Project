@@ -41,6 +41,7 @@ The aim is to highlight sustainable food choices and provide actionable insights
 * Animal-based foods dominate eutrophication – Beef, fish, and cheese are top contributors to water pollution.
 ![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q5.png)
 * Farm stage is the largest emitter – Followed by land-use change and animal feed production.
+![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q3.png)
 
 
 
