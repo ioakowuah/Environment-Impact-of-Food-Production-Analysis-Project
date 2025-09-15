@@ -30,7 +30,7 @@ The aim is to highlight sustainable food choices and provide actionable insights
 ## 📊 Key Insights
 
 * Beef is the most carbon-intensive food – Beef (beef herd) has nearly 3× the emissions of lamb & mutton.
-![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q5.png)
+![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q1.png)
 
 * Plant-based foods are more sustainable – Nuts, potatoes, onions, root vegetables, and citrus emit <1% of beef’s emissions.
 
