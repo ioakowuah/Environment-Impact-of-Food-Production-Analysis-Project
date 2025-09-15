@@ -35,8 +35,6 @@ The aim is to highlight sustainable food choices and provide actionable insights
 * Plant-based foods are more sustainable – Nuts, potatoes, onions, root vegetables, and citrus emit <1% of beef’s emissions.
 ![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q8.png)
 
-* Dairy & processed foods also rank high – Cheese and dark chocolate have disproportionately high impacts.
-
 * Animal-based foods dominate eutrophication – Beef, fish, and cheese are top contributors to water pollution.
 ![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q2.png)
 
