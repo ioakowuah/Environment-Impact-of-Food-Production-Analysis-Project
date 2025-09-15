@@ -39,7 +39,7 @@ The aim is to highlight sustainable food choices and provide actionable insights
 
 * Farm stage is the largest emitter – Followed by land-use change and animal feed production.
 
-![REcommendation-System](https://github.com/ioakowuah/Recommendation-System-Analysis-and-Modeling/blob/main/recommendation%20system%20.png)
+![visuals](https://github.com/ioakowuah/Environment-Impact-of-Food-Production-Analysis-Project/blob/main/Q5.png)
 
 ## Recommendations
 
